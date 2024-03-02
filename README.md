@@ -17,3 +17,7 @@ git status
 untracked-modified-staged-unmodified
 git add filename
 git commit -m message
+<br>
+git pull origin main
+<br>
+ git push origin main --force
