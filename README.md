@@ -74,3 +74,4 @@ git reset <commit hash>
 git reset -hard (commit hash)
 
 
+
