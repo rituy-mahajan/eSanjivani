@@ -61,5 +61,16 @@ git pull origin "branch to download locally"
 //merge
 <br>
 git merge "branch name"
+<br><br>
+//check all commit list
+git log
+<br><br>
+//Undoing merges
+
+git reset<br>
+git reset filename<br>
+git reset HEAD~2
+git reset <commit hash>
+git reset -hard (commit hash)
 
 
