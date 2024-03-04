@@ -38,5 +38,7 @@ git pull origin main
   git branch
   <br>
   git branch -M "newName"   //rename branch Name
-  git push origin main
+  git push origin main <br>
+  git push -u origin main <br>
+  git push;
   
