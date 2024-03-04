@@ -21,3 +21,8 @@ git commit -m message
 git pull origin main
 <br>
  git push origin main --force
+
+//ls -a:
+ Get-ChildItem -Force
+ Get-ChildItem -Directory
+ Get-ChildItem -File
