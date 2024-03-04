@@ -41,4 +41,19 @@ git pull origin main
   git push origin main <br>
   git push -u origin main <br>
   git push;
+  <br>
+  <br>
   
+// Branch
+
+<br>
+git branch <br>
+git branch -M "existing Branch /main" <br>
+git checkout "feature1" <br>  //to navigate through existing branches
+ git checkout -b "feature1"  // to create new branch and navigate
+<br>
+git diff "beach to compare"
+<br>
+git push origin "branch to upload remotely"
+<br>
+
