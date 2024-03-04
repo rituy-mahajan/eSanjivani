@@ -56,4 +56,10 @@ git diff "beach to compare"
 <br>
 git push origin "branch to upload remotely"
 <br>
+git pull origin "branch to download locally"
+<br><br>
+//merge
+<br>
+git merge "branch name"
+
 
