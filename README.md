@@ -26,3 +26,17 @@ git pull origin main
  Get-ChildItem -Force
  Get-ChildItem -Directory
  Get-ChildItem -File
+<br>
+
+ //day 2:  
+ git commit -m "Add Initaial Files"
+ <br>
+ git remote add origin https://github.com/rituy-mahajan/LocalRepository.git
+ <br>
+  git remote -v
+  <br>
+  git branch
+  <br>
+  git branch -M "newName"   //rename branch Name
+  git push origin main
+  
